@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at the anniversary meeting of the Dorset-shire gentlemen in the Church of St. Mary-le-Bow. Dec. 1. 1691. By Tho. Lindesay, A.M. Fellow of Wadham Colledge in Oxon; and Chaplain to the Right Honourable the Earl of Essex.</title>
+            <author>Lindesay, Thomas, 1656-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48582</idno>
+            <idno type="STC">Wing L2310</idno>
+            <idno type="STC">ESTC R216735</idno>
+            <idno type="EEBO-CITATION">99828456</idno>
+            <idno type="PROQUEST">99828456</idno>
+            <idno type="VID">32883</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32883)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1913:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at the anniversary meeting of the Dorset-shire gentlemen in the Church of St. Mary-le-Bow. Dec. 1. 1691. By Tho. Lindesay, A.M. Fellow of Wadham Colledge in Oxon; and Chaplain to the Right Honourable the Earl of Essex.</title>
+                  <author>Lindesay, Thomas, 1656-1724.</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Miller, at the Rose at the west-end of St. Paul's Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an imprimatur on the verso of A1 signed and dated: Geo. Royse, Decemb. 14. 91.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32883:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED AT THE Anniverſary Meeting OF THE <hi>Dorſet-ſhire</hi> Gentlemen, In the Church of St. <hi>Mary-le-Bow. Dec.</hi> 1. 1691.</p>
+            <p>By <hi>THO. LINDESAY,</hi> A. M. Fellow of <hi>Wadham</hi> Colledge in <hi>Oxon;</hi> And Chaplain to the Right Honourable the Earl of <hi>Eſſex.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Miller,</hi> at the <hi>Roſe</hi> at the Weſt-End of St. <hi>Paul</hi>'s Church. 1692.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:32883:2"/>
+            <p>
+               <hi>IMPRIMATUR.</hi>
+            </p>
+            <p>
+               <hi>Geo. Royſe,</hi> R. R<hi rend="sup">mo</hi> in Chriſto Patri, ac Dom. Dom. <hi>Jo<g ref="char:EOLhyphen"/>hanne</hi> Archiep. <hi>Cantuar.</hi> à Sacris Domeſt.</p>
+            <p>
+               <hi>Decemb.</hi> 14. 91.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:32883:2"/>
+            <head>To the Stewards of the <hi>Dorſet-ſhire</hi> Feaſt.
+<list>
+                  <item>
+                     <hi>Mr.</hi> John Miller.</item>
+                  <item>
+                     <hi>Mr.</hi> Hugh Strode.</item>
+                  <item>
+                     <hi>Dr.</hi> Robert Pit.</item>
+                  <item>
+                     <hi>Mr.</hi> John Abbington.</item>
+                  <item>
+                     <hi>Mr.</hi> Henry Daveniſh.</item>
+                  <item>
+                     <hi>Mr.</hi> Lawrence Purchaſe.</item>
+                  <item>
+                     <hi>Mr.</hi> Henry Langford.</item>
+                  <item>
+                     <hi>Mr.</hi> Thomas Frampton.</item>
+                  <item>
+                     <hi>Mr.</hi> Charles Bream.</item>
+                  <item>
+                     <hi>Mr.</hi> James Durnford.</item>
+                  <item>
+                     <hi>Mr.</hi> Abel Lawrence.</item>
+                  <item>
+                     <hi>Mr.</hi> Samuel Tuexbury.</item>
+               </list>
+And others the Gentlemen of the County of <hi>DORSET.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen.</salute>
+            </opener>
+            <p>SInce you deſired me to Publiſh this Diſcourſe, I never ſcrupled much to do it: For I had great Encourage<g ref="char:EOLhyphen"/>ment to think, that what had been by you approv'd, might find a tolerable accepta<g ref="char:EOLhyphen"/>tion in the world. The Subject is its own Commendation; and how ſhort ſoever I may fall in the due management of the matter of it, there will be ſome Praiſe due, even to the bare intention to do good: The
+<pb facs="tcp:32883:3"/>continued Wants and Crys of the Diſtreſſed, ſhew there is ſtill occaſion for our Charity, and ſpace enough left for Exhortation to the Practice of it: And therefore, tho' others have ſo well and fully Treated on this Topick, that there may ſeem no room for an Addition to be made: Yet this Ser<g ref="char:EOLhyphen"/>mon will have its uſe, if it juſt only ſerves to revive your Memories, and quicken you to the performance of ſo great and neceſſa<g ref="char:EOLhyphen"/>ry a Duty; I hope at leaſt, it doth deliver ſome ſuch Truths, as may convince you of the obligation of the Precept in the Text, and further thoſe Inclinations begun in you to Relieve the Poor. If it doth thus much, it fully ſatisfies the Expectations of</p>
+            <closer>
+               <signed>
+                  <hi>YOUR Affectionate Countrey-Man, and Humble Servant,</hi> THO. LINDESAY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:32883:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>GAL. VI. 10.</hi>
+                  </bibl>
+                  <p>As we have therefore Opportunity, let us do good unto all Men; eſpecially unto them who are of the Houſhold of Faith.</p>
+               </q>
+            </epigraph>
+            <p>THE Words are a general Exhor<g ref="char:EOLhyphen"/>tation to Charity; and tho', if we nicely refer them to the fore<g ref="char:EOLhyphen"/>going parts of this Chapter, they more particularly point out that Mainte<g ref="char:EOLhyphen"/>nance which is due to the Miniſters of the Goſpel; yet the Apoſtle, in the preceding Verſes, having fix'd and ſtated the Rewards due to Benefactions of that kind; ſeems in the Text to have turn'd the Diſcourſe, and more immediately to apply himſelf for the Relief of the whole body of Chriſtians, and of Men.</p>
+            <p>We are to <hi>do good unto all,</hi> without ex<g ref="char:EOLhyphen"/>ception; No Reſpect either of Nation or
+<pb n="2" facs="tcp:32883:4"/>Religion, ſhould ſtop our hands, but we muſt reach out our Help and Aſſiſtance, as far as we are able, and in a due proportion to the whole Race of Mankind, that ſhall be Indi<g ref="char:EOLhyphen"/>gent and Neceſſitous; and our Charity ought to know no other limits or bounds, than thoſe which God hath preſcrib'd unto the World it ſelf.</p>
+            <p>Men otherwiſe would frame too many and frequent excuſes, to free them from this Duty; Self-Love (which is found even in the beſt) would make Charity, not only begin, but terminate at home too: And either prejudice from without, or a principle of Covetouſneſs from within, would up<g ref="char:EOLhyphen"/>on all Occaſions dwindle this extenſive Vertue into ſo ſmall a thing, that hardly a Remnant out of a Remnant would be <hi>Choſen</hi> as Objects of our Beneficence: And if we did not ſlip all <hi>Opportunities,</hi> yet at leaſt we ſhould lay hold on very few to do good.</p>
+            <p>Our Tempers of themſelves are rough and Cruel, but when embitter'd by Feuds and Animoſities, by differences of Nation, Party, or Religion, they often grow ſo very fierce: That had we no other tyes upon us to be Charitable, than what our own Wills would
+<pb n="3" facs="tcp:32883:4"/>prompt us to, there would be few found ſo much our Friends, as to deſerve our kind<g ref="char:EOLhyphen"/>neſs, and the Perverſneſs of our Conſtituti<g ref="char:EOLhyphen"/>ons would eaſily perſwade us, not only to leave our Enemies unrelieved, but alſo to preſs on their Neceſſities, and even help to their un<g ref="char:EOLhyphen"/>doing.</p>
+            <p>But whate're Nature of her ſelf may dictate to us, whate're our Heats and Paſſions may ſuggeſt; yet ſure we are, the Apoſtle here inſtructs us better, <hi>As we have opportunity to do good unto all Men,</hi> tho' more <hi>eſpecially unto them of the Houſehold of Faith.</hi>
+            </p>
+            <p>In which words, tho' <hi>doing good</hi> relates more to the Charity of the Actions than the Affe<g ref="char:EOLhyphen"/>ctions, yet both being included in them, I therefore, as occaſion ſerves, ſhall in the fol<g ref="char:EOLhyphen"/>lowing Diſcourſe, ſpeak ſomething to each Branch: That ſo I may the better anſwer both the Ends and Deſigns of our preſent meet<g ref="char:EOLhyphen"/>ing: The one to promote Brotherly Love and Affection; the other, which is the reſult of this Love, the Relieving of the Poor and the Neceſſitous.</p>
+            <p>And in order to this,</p>
+            <list>
+               <item>1. I ſhall firſt enquire to whom, and how far this Duty doth extend.</item>
+               <pb n="4" facs="tcp:32883:5"/>
+               <item>II. Secondly, I ſhall enquire when we may be ſaid to have an Opportunity to do it.</item>
+               <item>III. Thirdly, I ſhall lay down the Meaſures of our Charity to all Men, and to the Houſe<g ref="char:EOLhyphen"/>hold of Faith.</item>
+               <item>IV. And fourthly, and laſtly, ſhall more particularly apply the words unto the occa<g ref="char:EOLhyphen"/>ſion of our preſent coming here together.</item>
+            </list>
+            <p n="1">1. And firſt, how far the Command doth here extend, which is to all Men. For if we are to <hi>do good</hi> to all, then there are none but may upon occaſion ſtand in need of our re<g ref="char:EOLhyphen"/>lief; and if ſo, the Conſequence is eaſie, that <hi>all Men</hi> too may in their Courſe have the <hi>Opportunity</hi> to relieve.</p>
+            <p>The viciſſitude and change of Cauſes and Effects, placeth all things in uncertainty be<g ref="char:EOLhyphen"/>low: And in the Circle, he that to day ap<g ref="char:EOLhyphen"/>pears upon the heighth of the aſcent, may up<g ref="char:EOLhyphen"/>on the turn to Morrow, be wheel'd unto the oppoſite and loweſt point. The Courſe of Providence is wonderfully deſcribed by <hi>Eze<g ref="char:EOLhyphen"/>kiel,</hi> when he makes it as <hi>Wheels within Wheels:</hi> Where, tho' ſome may be ſo ſmall as not to be diſcern'd, yet ſtill they have their uſe in the mighty motion, and aptly ſerve to carry on the great work of the Creation.</p>
+            <p>The whole Texture of the World ſtands
+<pb n="5" facs="tcp:32883:5"/>and depends upon the mutual connexion, and ſubſerviency of one part unto another: And there's not the leaſt Atome or part of Matter, but what hath its ſhare both in the compoſition, and upholding of the Frame; And if ſo, why ſhould we think any of Man<g ref="char:EOLhyphen"/>kind ſo mean and little, as may not ſome way be ſerviceable to the preſervation of the leſſer World called Man?</p>
+            <p>Riches and Poverty, Inability and Power, are not abſolute, but relative things; and there's no perfection to be found, but only in God himſelf, who is the Fountain from whence all Power and Plenty are derived. So that the whole caſe is wound up in the degrees of more or leſs: All in their Propor<g ref="char:EOLhyphen"/>tions have their turns to do good: He that receives from one placed in an higher Sphere, at the ſame time may give to one that's in a lower, and ſo ſucceſſively it goes on, till at laſt all comes to be cloſed and wrapped up in the Infinite of Infinites, in God him<g ref="char:EOLhyphen"/>ſelf, <hi>who is in All, and over All.</hi>
+            </p>
+            <p>The common diſtinction which the World hath put betwixt Rich and Poor, hath made a great part of men think themſelves excus'd from all Acts of Charity; that it is their buſineſs to receive and not to give; And the
+<pb n="6" facs="tcp:32883:6"/>reaſon of this is, becauſe we are generally minding what we are not, not what we are: Have our Eyes tending upward to look at thoſe above us, but never vouchſafe to caſt them down upon ſuch Miſerable Objects, upon whom the influence of our Bounty might very well deſcend.</p>
+            <p>St. <hi>Paul,</hi> 'tis true, in his <hi>1ſt</hi> Epiſtle to <hi>Tim.</hi> the 4th Chapter, and the 17th Verſe, ſeems to make ſome diſtinction in the caſe, and to lay the whole Burthen of the duty of Benefi<g ref="char:EOLhyphen"/>cence upon the Rich, and perhaps he doth ſomewhat more particularly addreſs himſelf to Perſons of the greateſt Fortune: But in general, by the Rich here, and in other parts of Scripture, is meant no more than barely Men of Power and Ability: And then the words may run thus, <hi>Charge</hi> thoſe that have wherewithall, and are able to give, to <hi>diſtri<g ref="char:EOLhyphen"/>bute,</hi> and to <hi>communicate</hi> to thoſe that have not. And in this ſenſe, all Men who ſhall in their reſpective Capacities, at any time be a<g ref="char:EOLhyphen"/>ble, are to be accounted as the Rich, and therefore chargeable as ſuch.</p>
+            <p>But <hi>Tobit</hi> in his 4th Chapter, and 8th Verſe, plainly ſtates the matter, where he ſays, <hi>Be merciful after thy Power: If thou have much, give plenteouſly: If thou haſt little, do thy diligence gladly to give of that little.</hi>
+            </p>
+            <pb n="7" facs="tcp:32883:6"/>
+            <p>At the ſame time the Rich Men caſt their <hi>Gifts</hi> into the <hi>Treaſury,</hi> the Poor <hi>Widow</hi> alſo brought her <hi>Mites,</hi> and which is more, the laſt remains of her whole ſubſtance; which if it had not been her duty, muſt have been judg'd madneſs and extravagance; but ſince we find our Saviour gives ſo great a com<g ref="char:EOLhyphen"/>mendation to the Act, we have all the reaſon in the World to think, that there is none ſo mean, but in ſome caſes is obliged to give, tho' at the ſame time he knows he is parting with his All.</p>
+            <p>The Reaſon of this is founded, not in Pro<g ref="char:EOLhyphen"/>vidence alone, but in the Common Laws of Nature and Society, which obligeth all Men and Creatures to a preſervation of their kind: And he that thus gives, may reaſonably ex<g ref="char:EOLhyphen"/>pect in the ſame manner to receive; and if that great Rule of <hi>doing unto others as we would they ſhould do unto us,</hi> were truly kept; no one need fear a loſs by, or want encourage<g ref="char:EOLhyphen"/>ment to ſuch a Charity.</p>
+            <p>Let us ſuppoſe two Men reduced unto the loweſt ebb, levelled with the very Duſt from whence they ſprang, and, as nigh as may be, placed in the ſame equality of ill For<g ref="char:EOLhyphen"/>tune; yet ſome intervening Circumſtances, either of time or place, may make a ſtrange
+<pb n="8" facs="tcp:32883:7"/>alteration in their caſe, and make the one become a neceſſary Benefactor to the other: If kind Heaven hath thrown a piece of Bread into one's Hands, tho' perhaps juſt enough to ſupply his own Hunger, and he knows not at that time where to have another, yet if he ſees his Brother dying, and ſtarving by his ſide, he ought to relieve him with a part, and will other ways be guilty of his Blood, and charg'd with cutting off a <hi>Member</hi> of <hi>Chriſt's Body.</hi>
+            </p>
+            <p>If the Widow of <hi>Zarephath</hi> had refus'd to obey the directions of <hi>Elijah,</hi> tho' the Famine was then ſo ſore, that ſhe was preparing to eat her Morſel and <hi>to dye;</hi> ſhe and her Son had periſh'd in the deſtruction of the Prophet, the <hi>Meal</hi> had <hi>waſted,</hi> and the <hi>Cruiſe</hi> had <hi>fail'd.</hi>
+            </p>
+            <p>But now, ſhould all not hold that hath here been ſaid to this particular Branch of Charity, Beneficence, yet there are ſome ca<g ref="char:EOLhyphen"/>ſes, where all Men in general ſeem to be upon the Level to <hi>do good.</hi>
+            </p>
+            <p>If a Rich Man and a Poor ſhould walk together, and the one fall into a Ditch, Na<g ref="char:EOLhyphen"/>ture hath lent each an hand to help one a<g ref="char:EOLhyphen"/>nother out; and if either is aſſaulted, both are in a capacity to defend.</p>
+            <pb n="9" facs="tcp:32883:7"/>
+            <p>The pooreſt Begger that lies upon a Dung<g ref="char:EOLhyphen"/>hill, may be as fit to give Councel and Ad<g ref="char:EOLhyphen"/>vice, as the greateſt Prince that fills a Throne, the weak and feeble, even as the Giant that delights to run his Race; and where the Po<g ref="char:EOLhyphen"/>litician's Skill hath fail'd, we have known a City ſav'd by a Woman's Wiſdome and Diſcretion.</p>
+            <p>And if at laſt, all other means ſhall fail, the uſe of Prayers ſtill remains, which even the Pooreſt ne're can want: And theſe, if heartily put up, may draw thoſe Helps and Bleſſings from a<g ref="char:EOLhyphen"/>bove, which we below had no Abilities to give.</p>
+            <p>But now to cloſe all other Arguments in one; All Men muſt therefore be oblig'd to Charity, becauſe there's no one part of all our Duty can rightly be perform'd without it; for Charity is the fulneſs and perfection of all Chriſtian Graces, and, in the Scripture Phraſe, is juſt the ſame what <hi>Ariſtotle</hi> means by his one Vertue, which takes new Names from every ſeveral Object about which 'tis converſant and employ'd; and yet under all its various Appellations, is ſtill the ſame, and ſtill but one; 'Tis like the Soul, whole in it ſelf, and at the ſame time <hi>all,</hi> and undivided in each part: And hence, <hi>he who offendeth in
+<pb n="10" facs="tcp:32883:8"/>the leaſt,</hi> is ſaid to be guilty of a breach <hi>of the whole Law:</hi> Not that he who commits Mur<g ref="char:EOLhyphen"/>der, is by that Fact made guilty of Sacrilege or Theft: But ſtill becauſe in every Sin a breach is made on Charity, which is the com<g ref="char:EOLhyphen"/>mon Bond and Cement of all Virtues: 'Tis for this reaſon, that St. <hi>Paul</hi> affirms, 1 <hi>Cor.</hi> 13. <hi>That though he had Faith enough to remove Mountains, ſhould even give his Body to be burnt,</hi> had all other Virtues in the world, and yet <hi>wanted this</hi> they would <hi>profit him as nothing:</hi> For Chairty in all, is like the common Maſs of Blood, which tho' it runs through different Channels; yet ſtill in all the Fibres, Veins, and Arteries, is the ſame, every where is Blood, and giveth life and motion to the whole.</p>
+            <p>Having thus ſeen how far this Duty doth extend, I come in the next place to enquire, when we may be ſaid to have an opportunity to practiſe it.</p>
+            <p>Now the Reaſons of our Charity are vari<g ref="char:EOLhyphen"/>ous; either as the Abilities and Inclinations of the giver ſerve; or elſe, as the Neceſſities of the Indigent require; and theſe too differ ac<g ref="char:EOLhyphen"/>cording to the circumſtances of time and place; as theſe ſhift and change, ſtill a new Scene opens to us, and a freſh occaſion's offer'd to do good.</p>
+            <pb n="11" facs="tcp:32883:8"/>
+            <p>But ſince the Rule given doth confine our Wills, and Ability is ſuppoſed in thoſe to whom the Precept is here directed; I chuſe to think, the occaſions the Apoſtle would have us lay hold on to <hi>do good,</hi> are chiefly meant and ſpoken in relation to the ſeveral Exigencies of the wanting Perſon; and the words, <hi>as you have opportunity,</hi> may very well run thus, as often as you have occaſion of<g ref="char:EOLhyphen"/>fer'd, and a due object ſhall preſent it ſelf, ſo often ought you to think you have an opportu<g ref="char:EOLhyphen"/>nity, and accordingly <hi>do good;</hi> and then our whole Buſineſs is, to enquire when, and in what caſes we may be ſaid to have a ſit ſea<g ref="char:EOLhyphen"/>ſon for our Charity, from the Objects of it.</p>
+            <p>Now there are ſome Acts of Charity, which ſeem to be never out of ſeaſon, but al<g ref="char:EOLhyphen"/>ways to be done, becauſe the Object's always ready and in being; ſuch are thoſe Alms re<g ref="char:EOLhyphen"/>quired of us for the Poor, conſider'd as a di<g ref="char:EOLhyphen"/>ſtinct Body and Society of Men; and to this caſe our Saviour's Words, <hi>the poor ye have always with you,</hi> ſeem to be apply'd; and for this Exigency, all Nations have in their way provided a Relief, as general and conſtant as the occaſion is; The <hi>Jews</hi> for this purpoſe had their Treaſuries ſet up, into which every one according to his Abilities did caſt: This
+<pb n="12" facs="tcp:32883:9"/>amongſt us the Poor's Box ſupplies, which with the Tax added to it, doth from time to time, and by a continual courſe, feed and ſupply the dry and empty veins of the Body Politick with Blood, and keep in repair theſe National decays.</p>
+            <p>But beſides theſe common and ordinary Acts of Charity, there are more private and particu<g ref="char:EOLhyphen"/>lar to be done; the Publick never can provide againſt all Exigencies of Time or Perſons; and therefore the defects are, as occaſion ſerves, to be fill'd up by us.</p>
+            <p>And for theſe there can be no fix'd time or manner ſet for the performance, but are to be redreſs'd in ſuch a time and way as the Object before us ſhall require; and therefore it muſt be worth our while a little to Examine, when any thing becomes an Object of our Charity; and when that this is found, the Duty follows cloſe upon it, and our own Reaſon will in<g ref="char:EOLhyphen"/>form us, in what manner 'tis fitteſt to be ex<g ref="char:EOLhyphen"/>ercis'd.</p>
+            <p n="1">1. Firſt then, we may be ſaid to have a due Object for our Charity, when the Neceſſitous ſhall open his Condition to us, and ſeek unto us for Redreſs; when the crys of the Widows and the Orphans call unto us, as well as Heaven for relief; he that in ſuch a caſe ſhall
+<pb n="13" facs="tcp:32883:9"/>like the <hi>deaf Adder ſtop</hi> his <hi>Ears</hi> unto their Prayers, muſt never expect to have his own heard by God; and if the Afflicted at ſuch time, ſhall <hi>curſe</hi> him <hi>in the bitterneſs of his Soul,</hi> the Curſe will ſtick, and God hath pro<g ref="char:EOLhyphen"/>miſed to avenge his Cauſe.</p>
+            <p>This is a loud call, but they may ſometimes ſpeak unto us in a more ſtill voice, by Sighs and Groans, by the ſoft Whiſpers and Breath<g ref="char:EOLhyphen"/>ings of a breaking Heart; ſuch gentle Gales as theſe ſhould fill our Sails, and make us ex<g ref="char:EOLhyphen"/>tend our Pity and Compaſſion to them: And to this caſe refer that of <hi>Ezek.</hi> 21.6. <hi>sigh therefore thou Son of Man, with the breaking of thy loins, and with bitterneſs ſigh before their eyes;</hi> and in the <hi>79th Pſalm, v.</hi> 11. we are <hi>charged</hi> to let <hi>the ſighing of the Priſoner come before us:</hi> And if after all we take no notice, then, as he ſays, <hi>Pſal.</hi> 12.5. <hi>For the ſighing of the needy, will God himſelf ariſe.</hi>
+            </p>
+            <p>Sometimes again, we may come to be in<g ref="char:EOLhyphen"/>form'd of the Miſeries of another, by the languiſhing of the Eyes, the pale Viſage, and the dejected Countenance; which, like a true Picture, livelily paint out unto us, the inward diſturbances of the Soul; and if plain Sence will here not guide and direct us to the know<g ref="char:EOLhyphen"/>ledge of their caſe, yet Reaſon and Duty ought
+<pb n="14" facs="tcp:32883:10"/>to put us upon the Enquiry; for we are ſure all theſe Effects muſt have ſome. Cauſe, and then we are as ſure we lye under an obligation to remove it where it is.</p>
+            <p>So that, in all theſe circumſtances, nothing but downright Ignorance, or a well grounded Suſpition of the reality of their Wants, can any ways free us from the obligation of laying hold upon the <hi>Opportunity to do good.</hi>
+            </p>
+            <p n="2">2. A Second occaſion may be taken to Exerciſe our Charity, when we are Eye-wit<g ref="char:EOLhyphen"/>neſſes of another's wants; and here he that <hi>turns out of his way</hi> when that he <hi>ſees a poor man</hi> in it, or <hi>hides his face</hi> from ſuch an one, God alſo will hide his from him in the day of his diſtreſs; Chriſt takes ſuch Injuries as done unto himſelf, and paſſeth this Sentence on all thoſe who <hi>ſee the hungry, and give them no Meat, the Naked and cloathe them not; Depart from me ye Curſed into everlaſt<g ref="char:EOLhyphen"/>ing fire.</hi>
+            </p>
+            <p>Not that I here would give Encourage<g ref="char:EOLhyphen"/>ment to looſe Wanderers, and to Vagrant Men, whoſe calling 'tis, more than their Unhappi<g ref="char:EOLhyphen"/>neſs, to want; he who gives to any one that ſhall appear with the known Marks of ſuch a Perſon, his intended Chairty becomes Ex<g ref="char:EOLhyphen"/>travagance and Sin, becauſe he acts both
+<pb n="15" facs="tcp:32883:10"/>againſt Prudence and the Law, and helps for to ſupport ſuch men whom the Govern<g ref="char:EOLhyphen"/>ment thinks fit ſhould be ſuppreſs'd.</p>
+            <p>But bare ſuſpicion, or Ignorance of the Perſon of a Man, are no good pleas to ex<g ref="char:EOLhyphen"/>cuſe the duty; for he who ſhall refuſe to give for fear of counterfeits, muſt lie under an endleſs jealouſie, and is in a fair way never to ſee an <hi>opportunity to do good.</hi>
+            </p>
+            <p>And he who will not admit a Stranger in<g ref="char:EOLhyphen"/>to his Houſe, becauſe he knows him not, muſt unavoidably live in a conſtant breach of Hoſpi<g ref="char:EOLhyphen"/>tality; and ſo loſe not only the glorious chance of <hi>entertaining Angels unawares,</hi> but alſo run the hazard of having the <hi>Doors of Heaven ſhut</hi> againſt him for not opening his unto ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>He that ſhall ſee a Forreigner or a Stranger wounded on the Road, the <hi>Levite</hi>'s Caſe in<g ref="char:EOLhyphen"/>ſtructs him to pour in <hi>Wine and Oil,</hi> and to <hi>bind up his Wounds:</hi> And ſo far muſt we be from ſparing pains, or coſt, in ſuch a caſe, that we even ought to ſave anothers life, tho' with ſome hazard of our own. He that en<g ref="char:EOLhyphen"/>deavours not to ſtop that hand, which he ſees lift up unto another's death; if the com<g ref="char:EOLhyphen"/>mon Maxim doth hold true, <hi>Qui non prohibet peccatum cùm poteſt, facit;</hi> hath even ſided
+<pb n="16" facs="tcp:32883:11"/>with the Murtherer, hath helped to the ſhed<g ref="char:EOLhyphen"/>ding the one's Blood, and the endangering the others Soul.</p>
+            <p>Beſides, in all theſe caſes, we ſlight the hand of Providence, which ſeems to lead us to ſuch Objects for our good too, as well as theirs: And heedleſly not minding the <hi>An<g ref="char:EOLhyphen"/>gels ſtirring</hi> of the <hi>Pool,</hi> neglect the care of our Souls; and often ſlip the happy ſeaſon of doing ſuch a <hi>Charity,</hi> as poſſibly might <hi>cover a Multitude of Sins.</hi>
+            </p>
+            <p n="3">3. A Third opportunity to do good, may be with relation to the time of doing it; and here the preſent always ſeems to be the fitteſt. He that defers his doing good until to mor<g ref="char:EOLhyphen"/>row, puts it perhaps beyond his own life, and fooliſhly ventures all that great reward which he is hereafter to expect for his well doing, on the uncertainty of an hour. But it's my buſineſs here to ſhew what time is moſt pro<g ref="char:EOLhyphen"/>per only with relation to the Needy's wants.</p>
+            <p>'Tis a known Rule in the beſtowing of a favour, <hi>Quò citius eò melius,</hi> the ſooner and the better ſtill. He that defers his kindneſs, may when he would, not only find himſelf unable to give, but him alſo whom he would oblige in an incapacity to receive. A little time, and ſmall circumſtances alter the whole
+<pb n="17" facs="tcp:32883:11"/>ſtate of humane things; and what to day might prove a Bleſſing, may at another time, not only be an uſeleſs, but an hurtful Offering. However, this we may be ſure of, that ſo long as we delay the doing good, ſo long we ſtill protract the poor Mans Pain and Miſery: And there is ſo much Sowerneſs in the mix<g ref="char:EOLhyphen"/>ture of ſuch kindneſs, that probably it may not be reliſh'd when it comes.</p>
+            <p>If I deſign to ſhew a favour, Wiſdom will prompt me to diſpatch; becauſe by this I heighten the Obligation of the Deed, and ha<g ref="char:EOLhyphen"/>ſten and aſcertain my Reward. The timing of a kindneſs makes it. If I give money to buy the Needy Food, and the <hi>Market</hi>'s gone and paſt, and nothing's to be had, <hi>I offer a ſtone inſtead of Bread:</hi> 'Tis but like <hi>Meat</hi> that's <hi>plac'd</hi> upon the <hi>Hearſes</hi> of the <hi>dead;</hi> may ſerve for ſhew, but can never be of uſe to them, for whom it is there ſet. If I would reclaim a Man from Vice, I ought to watch the firſt mo<g ref="char:EOLhyphen"/>tions of his Soul to evil: Councel will come too late, when frequent Acts have hardened him in his way. How do I know, if when I ſee one in a wicked courſe, and, like <hi>Foelix,</hi> do put off my Reproof unto another ſeaſon, but that very Act may conclude the Fate of his poor Soul? He may by that fill up the mea<g ref="char:EOLhyphen"/>ſure
+<pb n="18" facs="tcp:32883:12"/>of his Sins, and ſo be reprobated for e<g ref="char:EOLhyphen"/>ver: And then, either to check, or to adviſe, is but to call the Phyſician in, when the ſick Man's eyes ſhall rowl in death, and the trem<g ref="char:EOLhyphen"/>bling joynts declare, the whole Building's tot<g ref="char:EOLhyphen"/>tering down.</p>
+            <p>Therefore the beſt timing Benefactions is, to make the Object and our Bounty meet: When e'er we ſee one need, immediately to ſupply the want; never to <hi>ſtop the Hireling's Wages,</hi> nor the <hi>poor Man's dues:</hi> For how do we know how great and preſſing their Ne<g ref="char:EOLhyphen"/>ceſſities may be? And perhaps the defect but of one day may ſtarve both the Virtue and the Man. Thus much to ſhew when we may be ſaid to have an opportunity to do good; which is as often, and as ſoon, as the Object of our Charity requires.</p>
+            <p n="3">3. The Third thing to be conſidered, is, the Meaſure of the Duty; which obligeth us to <hi>do good to all Men, and more eſpecially to the Houſhold of Faith.</hi>
+            </p>
+            <p n="1">1. And Firſt, we are to <hi>do good to all Men;</hi> which general Charity I ſhall treat of under theſe two reſpects; either as the words may ſig<g ref="char:EOLhyphen"/>nifie all Nations; or elſe, as they include, both the good and bad. And,</p>
+            <pb n="19" facs="tcp:32883:12"/>
+            <p n="1">1. Firſt, as all Men doth take in all <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ons of the World: At the time our Saviour came on Earth, there ſeem'd to be a general Errour crept into the minds of Men, that all Humanity was to be confin'd within the nar<g ref="char:EOLhyphen"/>row limits of a Country; and that the Law of Nature did no farther bind them in this caſe, than as they became form'd into parti<g ref="char:EOLhyphen"/>cular Bodies or Societies of Men; without the bounds of which, the Rule did ceaſe, and the Obligation became void.</p>
+            <p>The <hi>Jews</hi> at the time of our Apoſtle's wri<g ref="char:EOLhyphen"/>ting this Epiſtle, entertain'd a general hatred to all Nations of the Earth beſides themſelves; and had been ſo far mis-led by the Phariſees falſe Interpretations of the Law, as hardly to permit a <hi>Gentile</hi> to live amongſt them, de<g ref="char:EOLhyphen"/>nied them all Traffick and Commerce, and even the common Civilities of Men. What <hi>Gentiles</hi> were unto the <hi>Jews,</hi> that <hi>Barbarians</hi> were unto the <hi>Romans;</hi> they treated them with the ſame Civilities; and both the name and uſage which they gave them, ſufficiently declare, they eſteem'd them as little better than the other Salvage Creatures of the Earth. And the Letter which <hi>Joſephus</hi> mentions in the 12th Book of his Antiquities, to be ſent from one of the Kings of <hi>Lacedemon</hi> to <hi>O<g ref="char:EOLhyphen"/>rias</hi>
+               <pb n="20" facs="tcp:32883:13"/>the High Prieſt, gives us light into the ſenſe of other Nations alſo in this matter: In which, the Reaſon given why they and the <hi>Jews</hi> ſhould communicate to each other, was, becauſe by an old Writing they had found, that both were originally deſcended from one common Stock: And thence we may eaſily infer, that had there been no ſuch Af<g ref="char:EOLhyphen"/>finity and Kin, they would not have thought themſelves any otherways oblig'd.</p>
+            <p>And I could wiſh this temper of theirs had periſhed in the deſtruction of thoſe Nations: But they muſt have made but little obſervati<g ref="char:EOLhyphen"/>on in the World, whoſe own experience can<g ref="char:EOLhyphen"/>not tell them, that many; even amongſt us, have been acted by the ſame Prin<g ref="char:EOLhyphen"/>ciple towards a Neighbouring People driven to us for Relief. 'Tis plain, ſome look'd up<g ref="char:EOLhyphen"/>on them only as <hi>Locuſts</hi> ſent for to devour the Land; and the cry was, Have we not poor enough amongſt our ſelves, but we muſt call in Strangers to take the Bread out of our own mouths, and to rob and ruine us in our Trade? All bowels of Mercy and Com<g ref="char:EOLhyphen"/>paſſion ſeem'd to be ſwallowed up and loſt in a National Intereſt and Concern: And tho' they were Chriſtians as our ſelves, ſuf<g ref="char:EOLhyphen"/>ferers in the ſame common Cauſe, and what
+<pb n="21" facs="tcp:32883:13"/>was their Fate, was our Danger at that time; yet all would not ſuffice to perſwade ſome they were ſit Objects for their Charity, whilſt others grudgingly and repiningly did give.</p>
+            <p>It may not therefore be improper here, to give ſuch Reaſons for a general Charity, as may incline us to be of a better temper in ſuch Caſes for the future. And,</p>
+            <p n="1">1. We are to do good unto all Men, be<g ref="char:EOLhyphen"/>cauſe we have the ſame common Parents and Original: And this, whether we Reſpect ei<g ref="char:EOLhyphen"/>ther God, or Man: 'Tis true, the <hi>Heathens</hi> knew nothing of their Riſe from <hi>Adam;</hi> but where they found the Deſcent to be the ſame, they there did always think themſelves oblig'd to ſhew all Acts of Kindneſs and Humanity.</p>
+            <p>But that God was the firſt Cauſe of all things, that from him we had our Being, and our well-being too, was generally own'd by all the world: The Writings of <hi>Heathen</hi> Authors are full of that Confeſſion, and St. <hi>Paul</hi> quotes one of their own Poets to this purpoſe, <hi>Act.</hi> 17. <hi>v.</hi> 28.</p>
+            <p>The light of the Divinity ſhone ſo clearly in their Souls, that they could not but diſcern the Fountain of thoſe Rays: The ſwift Mo<g ref="char:EOLhyphen"/>tions,
+<pb n="22" facs="tcp:32883:14"/>and the reflex Actions of their Minds, gave them clearly to underſtand, that there was ſomething more concern'd in their For<g ref="char:EOLhyphen"/>mation, than pure Man.</p>
+            <p>And the Inferences which ſome drew from this, were the very ſame which we ſhould make; that there was no room left for any Man to Boaſt or Pride himſelf in his Extraction, or the mighty affluence of his worldly goods; nothing to value our ſelves upon, ſince the beſt part of Man was common unto all: The ſame Reaſon dwelt under the Thatched Cot<g ref="char:EOLhyphen"/>tage, as the Gilded Roof, and ſhin'd as bright under the dark Veil of an <hi>Aethiopian</hi> Skin, as in the faireſt Caſe of Fleſh and Blood, that Nature ever yet produced.</p>
+            <p>And what can we now think of thoſe, who drive ſuch Perſons from their doors, in whom God himſelf vouchſafes to dwell? Who un<g ref="char:EOLhyphen"/>concernedly ſhall ſuffer ſuch Men to Periſh in their Wants, on whom God's Image is lively Impreſs'd; which is the very Reaſon given by himſelf, why Murder is a Sin; and probably 'tis upon the ſame grounds why St. <hi>John,</hi> 1 <hi>Epiſt.</hi> 3.15. ſaith, <hi>He that hateth his Brother is a Murderer</hi> too.</p>
+            <p>He that in this manner ſhuts his Bowels, we may with him conclude, the Love of
+<pb n="23" facs="tcp:32883:14"/>God dwells not in that Perſon: For, <hi>how ſhould he love God whom he hath not ſeen, if he loves not his Brother whom he hath:</hi> He that thus ſlights the <hi>Copy</hi> in his fellow Creatures, may be ſup<g ref="char:EOLhyphen"/>pos'd to put a ſmall value on the <hi>Original</hi> it ſelf.</p>
+            <p n="2">
+               <hi>2dly.</hi> A Second Reaſon why we ſhould do good to all Men, may be, becauſe we have the ſame Common Nature, and the ſame Wants.</p>
+            <p>We are all form'd of the ſame common Clay, and if ſome ſeem to have a better turn, 'tis wholly owing to the <hi>Potter</hi>'s hand: The whole Subſtance of our Compoſition is but Duſt, and to that again we muſt return: And when we Diſſolve into the common Maſs, the preying Worm knows no diſtinction be<g ref="char:EOLhyphen"/>twixt a Peaſant and a Prince, the Beautiful and the Deform'd Carcaſs of a Man.</p>
+            <p>And as the ſame Fate doth wait our Deaths, ſo equal Chances and Misfortunes preſs upon our Lives. All the various turns of a Man's ſtate, ſhew him to be a dependant Being, and that not only on the Creator, but the Creature too: A conſtant Want attends the Infants early days, and accompanies Old Age unto the Grave. All circumſtances of Life declare <hi>it is not good for Man to be alone:</hi> His unexpected Wants, his Speech, and his diſ<g ref="char:EOLhyphen"/>curſive
+<pb n="24" facs="tcp:32883:15"/>Faculty, do all Evidence, he was a Creature Born and Fitted for Society; that his whole Eſſence hangs upon a Chain, where, tho' the links are diſproportion'd in the ſize, yet the leaſt ſerves to faſten all, and keep up the contexture of the whole.</p>
+            <p>From the Conſideration of all which, <hi>Tully,</hi> tho' an <hi>Heathen,</hi> could draw this neceſſary In<g ref="char:EOLhyphen"/>ference, <hi>Non nobis ſolum nati ſumus, &amp;c.</hi> that we were not born unto our ſelves alone, but to help out the unſeen Accidents of ano<g ref="char:EOLhyphen"/>ther's ſtate.</p>
+            <p>There's none ſo great and ſixed in his con<g ref="char:EOLhyphen"/>dition here, but who may one day want: And then common Reaſon calls unto us for Relief; becauſe, what is another's Fortune now, may at the next Seaſon be our Caſe: So that tho' Love and Charity to our Fel<g ref="char:EOLhyphen"/>low Creatures ſhould not perſwade us to be good, yet pity to our ſelves may rationally prevail.</p>
+            <p>Let he that fills the Throne conſider, how he could Rule without his Subjects aid; he doth protect becauſe they defend, and 'tis they lend him thoſe very hands by which he ſways his Sceptre, and reaches out his favours to them.</p>
+            <pb n="25" facs="tcp:32883:15"/>
+            <p>Let the Rich Man conſider what Uſe or, Profit he could make of his large Poſſeſſions did not the Poor Man plough and ſow, till, and manure his Grounds.</p>
+            <p>All, in their poſts, are ſerviceable to the Government, and the Preſervation of Man<g ref="char:EOLhyphen"/>kind: And it fares with the whole Race, as with the particular Man; in whom, if the ſeveral Members happen for to quarrel, it threatens Deſtruction to the whole: And if the Hands and Feet refuſe to work, becauſe the Belly ſtill re<g ref="char:EOLhyphen"/>ceives the Fruit of their Labours, as that grows lank, they too muſt ſhrivel and decay; the Fountain of Chyle and Blood immediately will ſtop, and they muſt all ſink into one com<g ref="char:EOLhyphen"/>mon Sepulchre and Tomb.</p>
+            <p>
+               <hi>Owe therefore,</hi> as St. <hi>Paul</hi> exhorts, <hi>Rom.</hi> 13.8. <hi>no Man any thing but Love:</hi> And ſince it is a Debt, let it be duly paid; taking the Example of the great Preſerver of the World in the Caſe, who, in his common Providence, never makes the Dew fall on <hi>Gideon's Fleece</hi> alone, whilſt other parts of the Earth remain dry, but fills all Corners of the Univerſe with his Bleſſings; and as their Needs require, ſupplies the Neceſſities both of Man and Beaſt.</p>
+            <pb n="26" facs="tcp:32883:16"/>
+            <p n="2">2. But <hi>Secondly,</hi> We are to do good to a Men, whether good or bad. And here we are firſt to mind, that there is <hi>none good but God;</hi> all Men in a ſubordinate Degree are wic<g ref="char:EOLhyphen"/>ked and unjuſt: And therefore he that in ge<g ref="char:EOLhyphen"/>neral excludes Sinners, as ſuch, from Charity, ſhoots out an Arrow which will fall on his own Head; and in ſentencing another, will be found alſo to condemn himſelf.</p>
+            <p>Had God and Chriſt been as uncompaſſio<g ref="char:EOLhyphen"/>nate to us, the World had wanted a Saviour to this day. And ſince he came to ſave Sin<g ref="char:EOLhyphen"/>ners only, we may learn alſo a farther Leſſon, That there are ſome Acts of Grace which be<g ref="char:EOLhyphen"/>long properly and peculiarly to them; <hi>The Whole have no need of a Phyſician, but the Sick:</hi> And Councel is there loſt, where there is no occaſion to reclaim.</p>
+            <p>By a Benefaction that is well timed and pla<g ref="char:EOLhyphen"/>ced, we often may recover the ſtrayed Reaſon of a Man, and ſo procure to our ſelves a <hi>Citi<g ref="char:EOLhyphen"/>zen</hi>'s Reward of <hi>Saving a Soul alive.</hi>
+            </p>
+            <p>But here, in what manner, or what mea<g ref="char:EOLhyphen"/>ſure to beſtow, no general Directions can be given, but it muſt be left wholly to the Judg<g ref="char:EOLhyphen"/>ment and Diſcretion of the Giver. Only this Caution is always neceſſary, Never to give, ſo as to add Fewel to Hell-fire, or whereby
+<pb n="27" facs="tcp:32883:16"/>we may either increaſe or encourage any one in his Vice.</p>
+            <p>But as to all the common Wants of Nature and Neceſſity, our Heavenly Father hath ſet a Rule, whereby we can never err; Who, as our Saviour tells us, in his Sermon on the Mount, <hi>maketh his Sun to riſe on the Evil, and on the Good; and ſendeth Rain on the Juſt, and on the <g ref="char:V">Ʋ</g>njuſt.</hi>
+            </p>
+            <p>But though we are thus in common Caſes to exerciſe our Charity to all Men, both to the Good, and to the Bad, yet more particu<g ref="char:EOLhyphen"/>larly to the one, than to the other; and, as the Words are, <hi>more eſpecially to thoſe who are of the Houſhold of Faith.</hi> Which brings us upon this farther Enquiry, Who may be ſaid to be of the Houſhold?</p>
+            <p>And <hi>Firſt,</hi> All Chriſtians in general are the <hi>Houſhold of Faith;</hi> who are all under one <hi>Oeco<g ref="char:EOLhyphen"/>nomy,</hi> have one and the ſame Maſter of the Houſe, Chriſt Jeſus, and the ſame Rules given them for the well managing themſelves in his Family.</p>
+            <p>Now one Reaſon why we ſhould do good to Chriſtians more eſpecially, is, becauſe in them is added to the former Obligations, the having one common Lord and Saviour, who died for them all. And the Rule given upon
+<pb n="28" facs="tcp:32883:17"/>this, for us to follow, is, <hi>to love one another, as Chriſt loved us:</hi> And then it muſt be exceeding great, becauſe <hi>Greater Love can no Man ſhew, than to lay down his Life for another.</hi>
+            </p>
+            <p>So that where we are to ſhew Pity unto others, there to Chriſtians it muſt be Love; where Love to them, there to Chriſtians it muſt be Zeal; and where we barely ſupply their Wants, there to Chriſtians we ought for to abound.</p>
+            <p n="2">
+               <hi>2dly.</hi> A Second Reaſon is, becauſe Chri<g ref="char:EOLhyphen"/>ſtians are all Members of the ſame Myſtical Body, united unto Chriſt their Head. So that he who refuſes to relieve any one under this Denomination, proves cruel, not only to a Member of Chriſt's Body, but his own.</p>
+            <p>And this is the Reaſon given for our Love by St. <hi>Paul, Rom.</hi> 12.5. where he ſays, <hi>So we being many, are one Body in Chriſt, and every one Members of one of another.</hi>
+            </p>
+            <p>Now, <hi>Did ever any one yet hate his own Fleſh?</hi> He that doth, muſt firſt throw away his Rea<g ref="char:EOLhyphen"/>ſon, and his Senſe. So that Chriſtianity be<g ref="char:EOLhyphen"/>comes a Principle of Self-Preſervation, to ob<g ref="char:EOLhyphen"/>lige us unto Love, and a mutual Support of one another.</p>
+            <p>'Twas this Conſideration help'd to preſerve the firſt Race of Chriſtians, and carried them
+<pb n="29" facs="tcp:32883:17"/>through all the barbarous Perſecutions of the <hi>Roman</hi> Emperors; ſtill as their Blood was ſhed, the Cement grew the ſtronger: And what was ſaid of <hi>Saul</hi> and <hi>Jonathan,</hi> held alſo true of them: <hi>They were lovely in their Lives, and in their Deaths they were not divided.</hi>
+            </p>
+            <p>'Twas upon this Account the Chriſtians became the envious obſervation of the Hea<g ref="char:EOLhyphen"/>then World: There was no Wars or Diviſi<g ref="char:EOLhyphen"/>ons heard of in <hi>God</hi>'s Holy <hi>Mount;</hi> but all, as if actuated by the ſame Soul, were of one mind, felt the ſame wants, and rejoyced with one common joy.</p>
+            <p>So that we may be ſure where Bitterneſs and Diviſions reign, there Satan hath broke looſe, and ſet up his Standard in the Hearts of Men. Pride, Strifes, and Envyings, are prin<g ref="char:EOLhyphen"/>cipal Officers in his Camp, by whoſe help he endeavours to deſtroy Chriſt's Kingdom here on Earth; which is, and always was, beſt de<g ref="char:EOLhyphen"/>fended by Amity and Love: For if our Sa<g ref="char:EOLhyphen"/>viour had not ſpoken it, yet common expe<g ref="char:EOLhyphen"/>rience would have told us this, that <hi>a Kingdom divided againſt it ſelf can never ſtand.</hi>
+            </p>
+            <p>Thus have we ſeen upon what grounds a Chriſtian love is founded; but amongſt them too there may be a diſtinction uſed, which brings me to a ſecond conſideration, That
+<pb n="30" facs="tcp:32883:18"/>tho' we muſt be more particularly kind to Chriſtians than other Men, yet ſtill more e<g ref="char:EOLhyphen"/>ſpecially to thoſe of our own Church.</p>
+            <p>And the reaſon of this is, becauſe every Man is bound to promote Truth. Now e<g ref="char:EOLhyphen"/>very one that hath entred himſelf of any Church, muſt think that the trueſt; or elſe hath built his Faith on a very Sandy and weak Foundation: And if ſo, then where there is any room for choice, we ought to have a more particular regard to Men of the ſame Communion with our ſelves; becauſe, by this we ſhall confirm them the more in it, ſtrengthen the weak Members, and eſtabliſh them in their way.</p>
+            <p>Beſides, we may win others over by it, by laying out a price, we may make a Purchaſe of Mens Souls: When Men ſhall ſee us zea<g ref="char:EOLhyphen"/>lous in good Works, Peace and Love in all our ways, and Charity and good Will in all our actions, they will then think that <hi>God is in us of a Truth,</hi> and will naturally leave that Party, amongſt whom nothing but hatred and inhumanity is ſeen.</p>
+            <p>The Rule of all Beneficence, in this caſe, may rationally be this, that where there is not a manifeſt inequality in the Object, there Charity lawfully may, and ought to begin
+<pb n="31" facs="tcp:32883:18"/>at home: And where an Overplus to what is neceſſary is deſigned, there ſtill the Benefa<g ref="char:EOLhyphen"/>ctor is at Liberty to uſe his own Judgment and Diſcretion.</p>
+            <p>But whilſt we give to one, we are not to ſuffer the other to want; nor load the one with Superfluities, whilſt the other hath not what is convenient and enough.</p>
+            <p>This is a Rock on which too many ſeem to ſplit: The <hi>Jews</hi> firſt led the way, and there have been Chriſtians ſince have followed the Example: Becauſe the <hi>Gentiles,</hi> as they thought, were Aliens to the Promiſes of God, they eſteemed them alſo as unworthy to receive the common Benefits of Nature. And there are thoſe amongſt us too, who ſeem to confine all Kindneſs to a Party, if poſſible would traf<g ref="char:EOLhyphen"/>fick and trade only amongſt themſelves; none but who are of the ſame Opinion, ſhall wil<g ref="char:EOLhyphen"/>lingly be encouraged, or employed; and if ever they beſtow a Favour, it muſt be a great wonder if it be not to one of their own Image and Complexion.</p>
+            <p>As if where Salvation could not, or was not, without ſome difficulty to be allowed, there the Body was to periſh with the Soul; and all who had not the ſame Senſe in matters of Re<g ref="char:EOLhyphen"/>ligion, were to be treated as gangreen'd Mem<g ref="char:EOLhyphen"/>bers;
+<pb n="32" facs="tcp:32883:19"/>in which Caſe, it ſhall be thought im-Proper to pour Balm into their Wounds, and the only Remedy propoſed, is to cut off, and to deſtroy.</p>
+            <p>Another Miſchief to be avoided, is, That whilſt we favour our own Church, we do not condemn all others who are not of the ſame Perſwaſion with our ſelves.</p>
+            <p>Raſh Cenſures ſeem to be the moſt impro<g ref="char:EOLhyphen"/>per Task that a Chriſtian can poſſibly be put upon, whoſe Buſineſs it is to be <hi>long ſuffering,</hi> and <hi>forbearing, and excuſing one another.</hi>
+            </p>
+            <p>And 'tis really wonderful to think that there are ſome who can give themſelves this Name, who mercileſly can take a poor Infant from the Womb, and ſtraight condemn him to Eternal Flames; and others who can reprobate all the World, beſides themſelves.</p>
+            <p>Who, though Chriſt tells us he came for to <hi>ſave all,</hi> ſhall yet confine Grace within ſo ſmall a Compaſs, as hardly to leave him room enough to be a <hi>Saviour.</hi> All who have not the ſame Light which they boaſt of, are pre<g ref="char:EOLhyphen"/>ſently <hi>caſt into Outer Darkneſs,</hi> a thick and mighty Darkneſs, which no kind Beam can ever pierce through or any ways diſpel; but, like thoſe who live in the Extremities of the World, are doom'd to a perpetual Night,
+<pb n="33" facs="tcp:32883:19"/>without all hope of ever ſeeing the Appearance of a Day.</p>
+            <p>But whatever ſome Men can do, let us put on <hi>Charity,</hi> which <hi>hopeth all things.</hi> Let us not <hi>judge, that we be not judged</hi> for ſo doing; always reſigning the Sentence unto God, whoſe Right it is, and who therefore claims it as his due.</p>
+            <p>And inſtead of this, let us, as the Text ex<g ref="char:EOLhyphen"/>horts, learn to <hi>do good</hi> as often as we have <hi>Op<g ref="char:EOLhyphen"/>portunity;</hi> and that in all Kinds, to all Men, to all Chriſtians, and more particularly to thoſe of our own Church.</p>
+            <p>Having thus done with the Words in ge<g ref="char:EOLhyphen"/>neral, I come in the laſt place, more particu<g ref="char:EOLhyphen"/>larly to apply them to the Company here pre<g ref="char:EOLhyphen"/>ſent. And <hi>Firſt,</hi> We may conſider that there is now a different <hi>Opportunity</hi> put into our hands from the fore-mention'd Seaſons to <hi>do good:</hi> This Meeting it ſelf is one: and they who come here without deſign to give, have with<g ref="char:EOLhyphen"/>out Reaſon, and to no purpoſe met. The Occaſion here is greater than, and more pub<g ref="char:EOLhyphen"/>lick far, than what thoſe others were; and therefore if our Charity equal the Occaſion, the Degrees of Recompence will be greater too. In giving other Alms, God requires Se<g ref="char:EOLhyphen"/>creſie in the Act; but in this Circumſtance,
+<pb n="34" facs="tcp:32883:20"/>the more open our Benefactions are, the more they ſtill anſwer the Intention, and the End of coming here. We may be allowed, in this Caſe, to <hi>blow a Trumpet up in</hi> Zion; and to <hi>let our Light ſo ſhine before Men,</hi> if poſſible, that the whole World <hi>may ſee our good Works,</hi> and follow our Example: In this imitating the great Globe of Light, which at the ſame time it ſheds its Influence upon us, lends us its Rays, that we may look up and ſee from whence all thoſe Benefits deſcend.</p>
+            <p>But now, might I be worthy to adviſe, my Country-men ſhould ne're ſit down with the thin Praiſe of barely Serving the Neceſſity of a Duty, but alſo ſeek and raiſe Occaſions for their Charity: For we are ſet as <hi>Stewards</hi> upon Earth; and 'tis our Buſineſs, not only to ſup<g ref="char:EOLhyphen"/>ply all viſible and apparent Wants in God's Family and Eſtate, but alſo to prevent in ſome Caſes, and to improve in others; to ſearch out Ways and Means how beſt we may employ that <hi>Talent</hi> which God hath here committed to our Charge. And though a Failure in the exalted Meaſures of this Vertue ſhall be no Man's Condemnation, yet it will take from our Reward; and he who might receive <hi>Fifty,</hi> and an <hi>Hundred fold,</hi> muſt otherwiſe be con<g ref="char:EOLhyphen"/>tented with a far leſs proportion of Increaſe.</p>
+            <pb n="35" facs="tcp:32883:20"/>
+            <p>And I muſt ſtill mind you farther yet, That making an Abatement of the <hi>Faith,</hi> there are others to be reckoned of <hi>the Houſhold</hi> too: Such are our Relations, Country-men, or Friends; and with reference to their Caſe, St. <hi>Paul</hi> affirms, <hi>He that provides not for his own Houſe, is worſe than an Infidel,</hi> 1 Tim. 5.8. So that in all Caſes, where there is no great Inequality either of Want or Merit, theſe ought to have the Preference from us, to re<g ref="char:EOLhyphen"/>ceive a <hi>Benjamin</hi>'s <hi>Meſs,</hi> and a double Portion of our Bleſſing.</p>
+            <p>And may you now in all the Actions of your lives, equal the deſign of this preſent day, and may the effect ſtill anſwer the de<g ref="char:EOLhyphen"/>ſign. May <hi>Righteouſneſs flow down from Heaven</hi> upon you: <hi>And Peace and Truth kiſs one another over</hi> our <hi>Land,</hi> and brood upon our <hi>Ground.</hi> May Love Reign here, and your Bounty run to thoſe below, and ſpread it ſelf about your Dwellings: Unity, both in Loyalty and Re<g ref="char:EOLhyphen"/>ligion, hath formerly been our Country's Glory, and may it be your Praiſe; may you be as unſpotted in them both, as was that blood with which your Veins were at firſt filled; and as untainted as that Air, in which you commonly do breath. In a word, May you <hi>be of one mind;</hi> but if that ſhall prove
+<pb n="36" facs="tcp:32883:21"/>too great an Happineſs to be obtain'd, at leaſt let all unite in Brotherly Kindneſs and Affe<g ref="char:EOLhyphen"/>ction. May ye <hi>abound in all Chriſtian Graces But, above all things</hi> (my Brethren) <hi>put on Cha<g ref="char:EOLhyphen"/>rity, which is the Bond of Perfectneſs, the New Commandment</hi> of the Goſpel, and <hi>the Fulfilling of the Law.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32883:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
